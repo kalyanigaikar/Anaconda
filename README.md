@@ -1,2 +1,1 @@
-# Anaconda
-Anaconda Clone
+# anaconda
